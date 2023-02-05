@@ -1,0 +1,11 @@
+C:\Users\Usuario\source\repos\DataGridViewEx\DataGridViewEx\bin\Debug\DataGridViewEx.exe.config
+C:\Users\Usuario\source\repos\DataGridViewEx\DataGridViewEx\bin\Debug\DataGridViewEx.exe
+C:\Users\Usuario\source\repos\DataGridViewEx\DataGridViewEx\bin\Debug\DataGridViewEx.pdb
+C:\Users\Usuario\source\repos\DataGridViewEx\DataGridViewEx\obj\Debug\DataGridViewEx.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\DataGridViewEx\DataGridViewEx\obj\Debug\DataGridViewEx.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\source\repos\DataGridViewEx\DataGridViewEx\obj\Debug\DataGridViewEx.Form1.resources
+C:\Users\Usuario\source\repos\DataGridViewEx\DataGridViewEx\obj\Debug\DataGridViewEx.Properties.Resources.resources
+C:\Users\Usuario\source\repos\DataGridViewEx\DataGridViewEx\obj\Debug\DataGridViewEx.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\DataGridViewEx\DataGridViewEx\obj\Debug\DataGridViewEx.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\DataGridViewEx\DataGridViewEx\obj\Debug\DataGridViewEx.exe
+C:\Users\Usuario\source\repos\DataGridViewEx\DataGridViewEx\obj\Debug\DataGridViewEx.pdb
